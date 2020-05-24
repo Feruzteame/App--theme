@@ -12,42 +12,17 @@ write a short description of your project:
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 ![wireframe]()
 
-## 0. Set-Up
-
-__A User can see my initial repository and live demo__
-
-### Repo
-
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
-
-## 1. __
-
-__full user story description__
-
-### Repo
-
-what branch(es) did you work on?
-
-### HTML
-
-what did you change in the HTML and why?
-
-### CSS
-
-what did you change in the CSS and why?
-
-## 2. ...
-
-...
-
-...
-
-## Finishing Touches
-
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+## User stories
+Step|How was the story|Change in Html|Change in css
+----|----------------|---------------|-------------
+Watch the video|Watch and Take a note|  | 
+Ready prepare| Download images and create files.download flexboxgrid.|link the google icon to use icons in my file.|
+home.html| working in home.html.|create (header,section,footer).used flexboxgrid ratio to the class of elements.|
+style.css|style file in css.working in background,put elements in right position.and colored the font.|| using diffrent color,font-family.|
+about.html | try to put some text in the file.  | create one section element with 2 div element in the section element and put some text.the rest of headeing and footer copy from home.html file.
+style.CSS |Style about.html || using different color to style about.html files.using background-color:none put the element in to the right position by using padding, margin,text-align ....etc.|
+service.html|work in service.html.| create three paragraph using by unorder list. the rest thing copy from pervious file. | 
+style.css|style about.html file.| | style unorder list for the paragraph and use selector child to give background color(to avoid space betweem the paragraph).
+contact.html|create forms| create forms(name, e-mail and message).|
+style.css| style contact.html file.||style the Form length and width.add background color.use margin to make space between the form.
+media qurie| responsive layout for small screen size.||use text-align, margin, padding ..etc to avoid crowd or hidden of some text.
