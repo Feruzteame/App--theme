@@ -87,5 +87,17 @@ img{width: auto;}
               margin-right: 100px;}
 #services ul #textOne{background-color: palevioletred;}
 #services ul #textTwo{background-color: white;}
-#services ul #textThree{background-color: palevioletred;}              
+#services ul #textThree{background-color: palevioletred;}
+
+         /* contact*/
+#contact form{text-align: center;
+              background-color: black;
+              color: white;}
+#contact input{width: 400px;
+               height: 25px;
+               margin-bottom: 30px;;}
+#contact textarea{width: 400px;
+                  height: 70px;}
+#contact h2{color: darkcyan;}             
+       
       
