@@ -98,6 +98,16 @@ img{width: auto;}
                margin-bottom: 30px;;}
 #contact textarea{width: 400px;
                   height: 70px;}
-#contact h2{color: darkcyan;}             
+#contact h2{color: darkcyan;}  
+
+                  /* media quire */
+@media (max-width: 800px) {
+ #feature, #information, #sub-header, #main-page h2{text-align: center;}
+ #company .row{margin-left: 15px;} 
+ #information h2 {margin-left: 70px;} 
+ #main-page{padding: 30px;}
+ #services ul{padding: 0px;}
+ #services ul li p{margin: 15px;}
+                      }              
        
       
