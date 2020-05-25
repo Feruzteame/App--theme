@@ -74,4 +74,18 @@ img{width: auto;}
                color: white;
                text-align: left;
                padding: 5px;}
+
+     /* services */
+#services ul {text-align: center;}
+#services li{list-style: none;
+              padding: 10px;}
+#services ul li:nth-child(odd){background-color: darkcyan;}
+#services ul li:nth-child(even){background-color: palevioletred;
+                                color: white }
+#services p{ text-align: left;
+              margin-left: 100px;
+              margin-right: 100px;}
+#services ul #textOne{background-color: palevioletred;}
+#services ul #textTwo{background-color: white;}
+#services ul #textThree{background-color: palevioletred;}              
       
