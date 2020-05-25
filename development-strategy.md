@@ -1,28 +1,22 @@
 # Development Strategy
 
-> `name-of-project`
+> App-strategy
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+This project is aimed how to work responsive layout.
+For it is diffrent project from others. 
+I find alot of new content according responsive layout,Using flexboxgrid with ratio.
+It does not need to do alot with media-querie becouse the flexboxgrid help us to minimaize media-quire work.
 
-## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
 
 ## User stories
-Step|How was the story|Change in Html|Change in css
-----|----------------|---------------|-------------
-Watch the video|Watch and Take a note|  | 
-Ready prepare| Download images and create files.download flexboxgrid.|link the google icon to use icons in my file.|
-home.html| working in home.html.|create (header,section,footer).used flexboxgrid ratio to the class of elements.|
-style.css|style file in css.working in background,put elements in right position.and colored the font.|| using diffrent color,font-family.|
-about.html | try to put some text in the file.  | create one section element with 2 div element in the section element and put some text.the rest of headeing and footer copy from home.html file.
-style.CSS |Style about.html || using different color to style about.html files.using background-color:none put the element in to the right position by using padding, margin,text-align ....etc.|
-service.html|work in service.html.| create three paragraph using by unorder list. the rest thing copy from pervious file. | 
-style.css|style about.html file.| | style unorder list for the paragraph and use selector child to give background color(to avoid space betweem the paragraph).
-contact.html|create forms| create forms(name, e-mail and message).|
-style.css| style contact.html file.||style the Form length and width.add background color.use margin to make space between the form.
+Step|How was the story|Change in Html|Change in css| branches
+----|----------------|---------------|------------- |--------
+Watch the video|Watch and Take a note|  | |
+Ready prepare| Download images and create files.download flexboxgrid.|link the google icon to use icons in my file.||
+home.html| working in home.html and style in home.html.|create (header,section,footer).used flexboxgrid ratio to the class of elements.|using diffrent color,font-family..working in background,put elements in right position.and colored the font|[home.html and style.css branch ](https://github.com/Feruzteame/App--theme/commit/3e0ce03cff59a455801b553d13041ae97ca4bb9c)
+about.html | try to put some text in the file. Style about.html | create one section element with 2 div element in the section element and put some text.the rest of headeing and footer copy from home.html file.| using different color to style about.html files.using background-color:none put the element in to the right position by using padding, margin,text-align ....etc.|[about.html and style.css branch](https://github.com/Feruzteame/App--theme/commit/6ed34710d5d039394d44fc0565e3369cae1ccef0)
+service.html|work in service.html.style about.html file.| create three paragraph using by unorder list. the rest thing copy from pervious file.| style unorder list for the paragraph and use selector child to give background color(to avoid space betweem the paragraph).|[service.html and style.css branch](https://github.com/Feruzteame/App--theme/commit/6bcc58aa72c1425b60751b5ffefc2e3e05264bd0)
+contact.html|create forms and style in contact.html file.| create forms(name, e-mail and message).|style the Form length and width.add background color.use margin to make space between the form.[contact.html and style.css branch](https://github.com/Feruzteame/App--theme/commit/74a1aa4c97aeee656964a63dead4f95355c6bd1b)
 media qurie| responsive layout for small screen size.||use text-align, margin, padding ..etc to avoid crowd or hidden of some text.
