@@ -5,6 +5,8 @@
 This project is aimed how to work responsive layout.
 
 ## User stories
+
+
 Step|How was the story|Change in Html|Change in css| branches
 ----|---------|---------|-------------|--------|
 Watch the video|Watch and Take a note|  | ||
