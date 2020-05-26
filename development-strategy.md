@@ -6,7 +6,7 @@ This project is aimed how to work responsive layout.
 
 ## User stories
 Step|How was the story|Change in Html|Change in css| branches
-----|----------------|---------------|------------- |--------
+----|---------|---------|-------------|--------
 Watch the video|Watch and Take a note|  | ||
 Ready prepare| Download images and create files.download flexboxgrid.|link the google icon to use icons in my file.|||
 home.html and css| working in home.html and style in home.html.|create (header,section,footer).used flexboxgrid ratio to the class of elements.|using diffrent color,font-family..working in background,put elements in right position.and colored the font|[home.html and style.css branch ](https://github.com/Feruzteame/App--theme/commit/3e0ce03cff59a455801b553d13041ae97ca4bb9c)|
