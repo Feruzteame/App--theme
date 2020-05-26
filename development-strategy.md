@@ -1,6 +1,7 @@
 # Development Strategy
 
 > App-theme
+
 This project is aimed how to work responsive layout.
 
 ## User stories
