@@ -6,4 +6,5 @@ For me it is diffrent project from others.
 I find alot of new content according responsive layout,Using flexboxgrid with ratio.
 It does not need to do alot with media-querie becouse the flexboxgrid help us to minimaize media-quire work.
 
+![Screenshot 2020-05-26 at 02 07 43](https://user-images.githubusercontent.com/59234162/82848895-d838d200-9ef5-11ea-8a24-e1ef805ad2a9.png)
 
