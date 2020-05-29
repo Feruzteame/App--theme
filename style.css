@@ -6,9 +6,9 @@ body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 0;}
 
 /*genrally*/
-#change, changes, change1, change2, change3{color: darkcyan;}
+#change, #changes, #change1, #change2, #change3{color: darkcyan;}
 
-#little{color: palevioletred;}
+#little, #title1{color: palevioletred;}
 .container{margin: auto;}
 img{width: auto;}
 #current{color: black;}
